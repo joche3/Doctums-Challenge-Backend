@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Oficina del proyecto",
+        "price": 1000,
+        "salaryMonth": 250,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 2,
+        "name": "Comunicaciones",
+        "price": 1000,
+        "salaryMonth": 250,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 3,
+        "name": "Procesos",
+        "price": 1000,
+        "salaryMonth": 250,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 4,
+        "name": "Tecnología de información",
+        "price": 1000,
+        "salaryMonth": 250,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 5,
+        "name": "Gestión del cambio",
+        "price": 1000,
+        "salaryMonth": 250,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 6,
+        "name": "Consultor de la solución",
+        "price": 1000,
+        "salaryMonth": 250,
+        "efficiency_points": 4,
+        "acquired": false
+    }
+]

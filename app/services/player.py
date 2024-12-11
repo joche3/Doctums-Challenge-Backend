@@ -29,7 +29,7 @@ def set_player_data(player: Player):  # Aceptamos el objeto 'player' completo
     return {"message": "Player data updated", "player": player_data}
 
 
-
+#FUNCIONES PUT
 
 # Actualizar solo el nombre del jugador
 def set_player_name(name: str):
@@ -52,9 +52,28 @@ def set_player_score(score: int):
     save_player(player_data)
     return {"message": "Player score updated", "player": player_data}
 
+#FUNCIONS PUT
 
+# Actualizar solo el nombre del jugador (PUT)
+def update_player_name(name: str):
+    player_data = load_player()
+    player_data["name"] = name
+    save_player(player_data)
+    return {"message": "Player name updated via PUT", "player": player_data}
 
+# Actualizar solo el dinero del jugador (PUT)
+def update_player_money(money: int):
+    player_data = load_player()
+    player_data["money"] = money
+    save_player(player_data)
+    return {"message": "Player money updated via PUT", "player": player_data}
 
+# Actualizar solo el puntaje del jugador (PUT)
+def update_player_score(score: int):
+    player_data = load_player()
+    player_data["score"] = score
+    save_player(player_data)
+    return {"message": "Player score updated via PUT", "player": player_data}
 
 
 # Establecer o actualizar los datos del jugador

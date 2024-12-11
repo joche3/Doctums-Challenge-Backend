@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "event_level": 1,
+      "description_event": "El director de TI ha solicitado al área de Recursos Humanos que le facilite algunos colaboradores que conozcan bien los procesos involucrados y que puedan destinar algunas horas a la semana a liderar funcionalmente el proceso mientras dure el proyecto, asegurándose -al mismo tiempo- que la operación no decaiga en sus gestiones y metas.",
+      "efficiencie_id_1": 1,
+      "efficiencie_id_2": 2,
+      "product_id": 1,
+      "proyect_id": 1,
+      "resource_id": 1,
+      "ifWin": 500,
+      "ifLose": 100
+    },
+    {
+      "id": 2,
+      "event_level": 2,
+      "description_event": "El líder de la PMO es una persona con gran experiencia en tecnologías de información, reconocido por sus pares como una persona capaz de encontrar soluciones técnicas a los diversos requerimientos de las áreas usuarias de la Universidad, aunque la velocidad de respuesta y la complejidad de los análisis a menudo hacen que el problema persista y presente errores posteriores. No logra ejercer un liderazgo en el negocio.",
+      "efficiencie_id_1": 3,
+      "efficiencie_id_2": 4,
+      "product_id": 2,
+      "proyect_id": 1,
+      "resource_id": 2,
+      "ifWin": 1000,
+      "ifLose": 200
+    },
+    {
+      "id": 3,
+      "event_level": 3,
+      "description_event": "Tras anunciar oficialmente la integración de nuevas herramientas digitales, se generaron discusiones informales en los pasillos, con empleados cuestionando si recibirían apoyo suficiente. Mientras tanto, algunos gerentes manifestaron inquietudes sobre el impacto en la productividad y los más recientes en la organización mencionaron experiencias negativas con proyectos de digitalización que quedaron incompletos.",
+      "efficiencie_id_1": 5,
+      "efficiencie_id_2": 6,
+      "product_id": 3,
+      "proyect_id": 1,
+      "resource_id": 3,
+      "ifWin": 1500,
+      "ifLose": 300
+    },
+    {
+      "id": 4,
+      "event_level": 4,
+      "description_event": "Al revisar la evolución de la Carta Gantt por parte del Comité Directivo, una vez transcurrido el segundo hito de definición de procesos y su aplicación en la solución, se informa que existe un desfase importante respecto de la programación base aprobada, lo que enciende las alertas en el Comité y llaman al director de la PMO a explicar las causas y proponer un plan remedial que no afecte el resultado final del proyecto, en todas sus variables originales.",
+      "efficiencie_id_1": 7,
+      "efficiencie_id_2": 8,
+      "product_id": 4,
+      "proyect_id": 1,
+      "resource_id": 4,
+      "ifWin": 2000,
+      "ifLose": 400
+    },
+    {
+      "id": 5,
+      "event_level": 5,
+      "description_event": "En la definición general del proyecto, se decidió realizar un piloto o prototipo con las unidades funcionales más representativas para, luego, extender la solución hacia las demás unidades. La universidad está pronto a salir en productivo con el piloto pero no está seguro de tener las capacidadaes para llevar a cabo los roll outs en el tiempo requerido por la institución. Usted debe dar una opinión fundamentada al respecto.",
+      "efficiencie_id_1": 9,
+      "efficiencie_id_2": 10,
+      "product_id": 5,
+      "proyect_id": 1,
+      "resource_id": 5,
+      "ifWin": 3000,
+      "ifLose": 500
+    },
+    {
+      "id": 6,
+      "event_level": 6,
+      "description_event": "Al comenzar el nuevo periodo académico, las personas que estuvieron asignadas al proyecto regresan a sus funciones operacionales habituales, por lo que las personas que los reemplazron temporalmente deben ser separadas de la organización, así como algunas otras personas cuyas tareas quedaron absorbidas por el sistema. Usted debe llevar a cabo esta tarea.",
+      "efficiencie_id_1": 11,
+      "efficiencie_id_2": 12,
+      "product_id": 6,
+      "proyect_id": 12,
+      "resource_id": 6,
+      "ifWin": 5000,
+      "ifLose": 600
+    }
+  ]

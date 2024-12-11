@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Implementación de la solución",
+        "price": 15000,
+        "efficiency_points": 25,
+        "acquired": false
+    },
+    {
+        "id": 2,
+        "name": "Gestión del Cambio",
+        "price": 8000,
+        "efficiency_points": 18,
+        "acquired": false
+    },
+    {
+        "id": 3,
+        "name": "Alineación Estratégica",
+        "price": 8000,
+        "efficiency_points": 18,
+        "acquired": false
+    },
+    {
+        "id": 4,
+        "name": "Reorganización",
+        "price": 2000,
+        "efficiency_points": 6,
+        "acquired": false
+    },
+    {
+        "id": 5,
+        "name": "Roll out de la solución",
+        "price": 5000,
+        "efficiency_points": 12,
+        "acquired": false
+    },
+    {
+        "id": 6,
+        "name": "Estandarización de operaciones",
+        "price": 2000,
+        "efficiency_points": 6,
+        "acquired": false
+    },
+    {
+        "id": 7,
+        "name": "Cambio cultural",
+        "price": 2000,
+        "efficiency_points": 6,
+        "acquired": false
+    },
+    {
+        "id": 8,
+        "name": "Innovación digital",
+        "price": 1000,
+        "efficiency_points": 4,
+        "acquired": false
+    }
+]

@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 # Importar los routers
-from app.routes import products, player
+from app.routes import products, player, efficiencies, projects, resources, events
 
 # Crear la aplicación FastAPI
 app = FastAPI()
@@ -23,3 +23,7 @@ app.add_middleware(
 # Montar los routers
 app.include_router(products.router)
 app.include_router(player.router)
+app.include_router(efficiencies.router)
+app.include_router(projects.router)
+app.include_router(resources.router)
+app.include_router(events.router)

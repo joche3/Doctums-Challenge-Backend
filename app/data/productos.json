@@ -1,48 +1,324 @@
 [
-    { "id": 1, "product_name": "Problemas de negocio que se pretende resolver", "price": 2000, "efficiency_points": 6, "acquired": false },
-    { "id": 2, "product_name": "Alcance de la solución tecnológica", "price": 1000,"efficiency_points": 4, "acquired": false },
-    { "id": 3, "product_name": "Definición de expectativas de apego baseline", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 4, "product_name": "Análisis de interfases con otras aplicaciones", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 5, "product_name": "Presupuesto aprobado", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 6, "product_name": "Diseño de los Indicadores de resultados", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 7, "product_name": "Elección de patrocinadores", "price": 1000, "efficiency_points": 4, "acquired": false },
-    { "id": 8, "product_name": "Elaboración del sistema de Gobernanza del proyecto", "price": 1000, "efficiency_points": 4, "acquired": false },
-    { "id": 9, "product_name": "Estudio de Cultura organizacional", "price": 1000, "efficiency_points": 4, "acquired": false },
-    { "id": 10, "product_name": "Análisis de capacidades de proveedores", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 11, "product_name": "Selección del Personal interno", "price": 1500, "efficiency_points": 5, "acquired": false },
-    { "id": 12, "product_name": "Levantamiento de la Matriz de riesgos periódica", "price": 1500, "efficiency_points": 5, "acquired": false },
-    { "id": 13, "product_name": "Asignación del Project Manager", "price": 1000, "efficiency_points": 4, "acquired": false },
-    { "id": 14, "product_name": "Elaboración de la Carta Gantt", "price": 1000, "efficiency_points": 4, "acquired": false },
-    { "id": 15, "product_name": "Asignación del personal interno funcional", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 16, "product_name": "Asignación del personal interno de Ti", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 17, "product_name": "Aseguramiento de la continuidad operacional", "price": 1000, "efficiency_points": 4, "acquired": false },
-    { "id": 18, "product_name": "Determinación de Roles y responsabilidades", "price": 1000, "efficiency_points": 4, "acquired": false },
-    { "id": 19, "product_name": "Definición de los Sistemas de trabajo", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 20, "product_name": "Diseño de los Indicadores de gestión", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 21, "product_name": "Aprobación de Sistemas de incentivos", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 22, "product_name": "Definición de políticas de seguridad laboral", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 23, "product_name": "Realización del kick off", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 24, "product_name": "Plan de Comunicación inicial", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 25, "product_name": "Integración del Equipo ampliado", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 26, "product_name": "Determinación de Planes de mitigación periódicos", "price": 1000, "efficiency_points": 4, "acquired": false },
-    { "id": 27, "product_name": "Talleres para determinar Gaps de configuración", "price": 2000, "efficiency_points": 6, "acquired": false},
-    { "id": 28, "product_name": "Validación de las funcionalidades off baseline", "price": 1000, "efficiency_points": 4, "acquired": false},
-    { "id": 29, "product_name": "Configuración del sistema", "price": 1000, "efficiency_points": 4, "acquired": false },
-    { "id": 30, "product_name": "Diseño de los Sistemas de reportes", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 31, "product_name": "Diseño de la Capacitación técnica", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 32, "product_name": "Diseño de la Capacitación funcional", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 33, "product_name": "Talleres de Coaching para resolver conflictos", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 34, "product_name": "Análisis de alineación organizacional", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 35, "product_name": "Requerimientos de información para migración", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 36, "product_name": "Recopilación de Información histórica consistente", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 37, "product_name": "Elaboración de las interfases con aplicaciones", "price": 1000, "efficiency_points": 4, "acquired": false },
-    { "id": 38, "product_name": "Migración de datos al sistema", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 39, "product_name": "Realización de pruebas unitarias", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 40, "product_name": "Realización de pruebas integrales", "price": 1000, "efficiency_points": 4, "acquired": false },
-    { "id": 41, "product_name": "Estrategia de capacitación a usuarios finales", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 42, "product_name": "Capacitación a usuarios finales", "price": 2000, "efficiency_points": 6, "acquired": false },
-    { "id": 43, "product_name": "Realización del Go Live", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 44, "product_name": "Aseguramiento de la operación con nuevo software", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 45, "product_name": "Modificación de las estructuras de organización", "price": 500, "efficiency_points": 2, "acquired": false },
-    { "id": 46, "product_name": "Elaboración de lecciones aprendidas", "price": 500, "efficiency_points": 2, "acquired": false }
-  ]
+    {
+        "id": 1,
+        "product_name": "Problemas de negocio que se pretende resolver",
+        "price": 2000,
+        "efficiency_points": 6,
+        "acquired": false
+    },
+    {
+        "id": 2,
+        "product_name": "Alcance de la solución tecnológica",
+        "price": 1000,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 3,
+        "product_name": "Definición de expectativas de apego baseline",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 4,
+        "product_name": "Análisis de interfases con otras aplicaciones",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 5,
+        "product_name": "Presupuesto aprobado",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 6,
+        "product_name": "Diseño de los Indicadores de resultados",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 7,
+        "product_name": "Elección de patrocinadores",
+        "price": 1000,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 8,
+        "product_name": "Elaboración del sistema de Gobernanza del proyecto",
+        "price": 1000,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 9,
+        "product_name": "Estudio de Cultura organizacional",
+        "price": 1000,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 10,
+        "product_name": "Análisis de capacidades de proveedores",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 11,
+        "product_name": "Selección del Personal interno",
+        "price": 1500,
+        "efficiency_points": 5,
+        "acquired": false
+    },
+    {
+        "id": 12,
+        "product_name": "Levantamiento de la Matriz de riesgos periódica",
+        "price": 1500,
+        "efficiency_points": 5,
+        "acquired": false
+    },
+    {
+        "id": 13,
+        "product_name": "Asignación del Project Manager",
+        "price": 1000,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 14,
+        "product_name": "Elaboración de la Carta Gantt",
+        "price": 1000,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 15,
+        "product_name": "Asignación del personal interno funcional",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 16,
+        "product_name": "Asignación del personal interno de Ti",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 17,
+        "product_name": "Aseguramiento de la continuidad operacional",
+        "price": 1000,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 18,
+        "product_name": "Determinación de Roles y responsabilidades",
+        "price": 1000,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 19,
+        "product_name": "Definición de los Sistemas de trabajo",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 20,
+        "product_name": "Diseño de los Indicadores de gestión",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 21,
+        "product_name": "Aprobación de Sistemas de incentivos",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 22,
+        "product_name": "Definición de políticas de seguridad laboral",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 23,
+        "product_name": "Realización del kick off",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 24,
+        "product_name": "Plan de Comunicación inicial",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 25,
+        "product_name": "Integración del Equipo ampliado",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 26,
+        "product_name": "Determinación de Planes de mitigación periódicos",
+        "price": 1000,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 27,
+        "product_name": "Talleres para determinar Gaps de configuración",
+        "price": 2000,
+        "efficiency_points": 6,
+        "acquired": false
+    },
+    {
+        "id": 28,
+        "product_name": "Validación de las funcionalidades off baseline",
+        "price": 1000,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 29,
+        "product_name": "Configuración del sistema",
+        "price": 1000,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 30,
+        "product_name": "Diseño de los Sistemas de reportes",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 31,
+        "product_name": "Diseño de la Capacitación técnica",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 32,
+        "product_name": "Diseño de la Capacitación funcional",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 33,
+        "product_name": "Talleres de Coaching para resolver conflictos",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 34,
+        "product_name": "Análisis de alineación organizacional",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 35,
+        "product_name": "Requerimientos de información para migración",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 36,
+        "product_name": "Recopilación de Información histórica consistente",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 37,
+        "product_name": "Elaboración de las interfases con aplicaciones",
+        "price": 1000,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 38,
+        "product_name": "Migración de datos al sistema",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 39,
+        "product_name": "Realización de pruebas unitarias",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 40,
+        "product_name": "Realización de pruebas integrales",
+        "price": 1000,
+        "efficiency_points": 4,
+        "acquired": false
+    },
+    {
+        "id": 41,
+        "product_name": "Estrategia de capacitación a usuarios finales",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 42,
+        "product_name": "Capacitación a usuarios finales",
+        "price": 2000,
+        "efficiency_points": 6,
+        "acquired": false
+    },
+    {
+        "id": 43,
+        "product_name": "Realización del Go Live",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 44,
+        "product_name": "Aseguramiento de la operación con nuevo software",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 45,
+        "product_name": "Modificación de las estructuras de organización",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    },
+    {
+        "id": 46,
+        "product_name": "Elaboración de lecciones aprendidas",
+        "price": 500,
+        "efficiency_points": 2,
+        "acquired": false
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Sistema de Gobierno",
+        "points": 0
+    },
+    {
+        "id": 2,
+        "name": "Conocimiento del negocio y de sus desafíos",
+        "points": 0
+    },
+    {
+        "id": 3,
+        "name": "Conocimiento de la Organización",
+        "points": 0
+    },
+    {
+        "id": 4,
+        "name": "Conocimiento estratégico de la solución",
+        "points": 0
+    },
+    {
+        "id": 5,
+        "name": "Conocimiento funcional y tecnológico en la solución",
+        "points": 0
+    },
+    {
+        "id": 6,
+        "name": "Solvencia operacional autónoma",
+        "points": 0
+    },
+    {
+        "id": 7,
+        "name": "Capacidad para gestionar los cambios",
+        "points": 0
+    },
+    {
+        "id": 8,
+        "name": "Capacidad para manejar la PMO",
+        "points": 0
+    },
+    {
+        "id": 9,
+        "name": "Capacidad para operar la solución",
+        "points": 0
+    },
+    {
+        "id": 10,
+        "name": "Capacidad para extender la solución a la operación",
+        "points": 0
+    },
+    {
+        "id": 11,
+        "name": "Capacidad para replicar la solución",
+        "points": 0
+    },
+    {
+        "id": 12,
+        "name": "Capacidad para resolver problemas",
+        "points": 0
+    }
+]
